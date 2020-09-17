@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+<nav>
+  <div class="nav-container">
+    <a class="link active" href="/about">
+      <div class="link-container green">
+        <img src="/icons/icon_About.svg" aria-hidden="true">
+      </div>
+      <span>About</span>
+    </a>
+    <a class="link" href="https://www.youtube.com/curiousvr" target="_blank">
+      <div class="link-container red">
+        <img src="/icons/icon_Youtube.svg" aria-hidden="true">
+      </div>
+      <span>Videos</span>
+    </a>
+    <a class="link" href="/blog">
+      <div class="link-container yellow">
+        <img src="/icons/icon_Blog.svg" aria-hidden="true">
+      </div>
+      <span>Blog</span>
+    </a>
+    <a class="link" href="https://www.facebook.com/CuriousVR.tv">
+      <div class="link-container blue">
+        <img src="/icons/icon_Facebook.svg" aria-hidden="true" target="_blank">
+      </div>
+      <span>Social</span>
+    </a>
+  </div>
+</nav>
+<p class="curious"><a href="/contact">Curious? Click Here!</a></p>
+<div class="text-container about-container">
+  {{ .Content }}
+</div>
+
+{{ end }}

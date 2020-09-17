@@ -1,0 +1,10 @@
+$black-color: #000000;
+$dark-color: #232425;
+$white-color: #FFFFFF;
+$blue-color: #0070EA;
+
+@font-face {
+  font-family: "Impact";
+  font-display: fallback;
+  src: url('/fonts/impact.ttf') format('truetype');
+}

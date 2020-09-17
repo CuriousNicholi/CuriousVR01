@@ -1,0 +1,49 @@
+{{ define "main" }}
+
+<nav>
+  <div class="nav-container">
+    <a class="link" href="/about">
+      <div class="link-container green">
+        <img src="/icons/icon_About.svg" aria-hidden="true">
+      </div>
+      <span>About</span>
+    </a>
+    <a class="link" href="https://www.youtube.com/curiousvr">
+      <div class="link-container red">
+        <img src="/icons/icon_Youtube.svg" aria-hidden="true" target="_blank">
+      </div>
+      <span>Videos</span>
+    </a>
+    <a class="link active" href="/blog">
+      <div class="link-container yellow">
+        <img src="/icons/icon_Blog.svg" aria-hidden="true">
+      </div>
+      <span>Blog</span>
+    </a>
+    <a class="link" href="https://www.facebook.com/CuriousVR.tv">
+      <div class="link-container blue">
+        <img src="/icons/icon_Facebook.svg" aria-hidden="true" target="_blank">
+      </div>
+      <span>Social</span>
+    </a>
+  </div>
+</nav>
+<p class="curious"><a href="/contact">Curious? Click Here!</a></p>
+<div class="blog-container">
+  <p class="content">{{ .Content }}</p>
+  {{ range ((.Data.Pages).ByParam "date").Reverse }}
+      <a href="{{ .Permalink }}" class="blog-card">
+        <div class="thumbnail-container">
+          <img src="{{ .Params.thumbnail }}" alt="{{ .Params.alt }}">
+        </div>
+        <div>
+          <h2>{{ .Params.title }}</h2>
+          <p class="date-and-time"><i>{{ .Params.date.Format "1.2.2006" }}</i></p>
+          <p>{{ .Summary }}</p>
+          <span><b>Read more →</b></span>
+        </div>
+      </a>
+    {{ end }}
+</div>
+
+{{ end }}

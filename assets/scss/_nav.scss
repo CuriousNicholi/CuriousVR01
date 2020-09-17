@@ -1,0 +1,109 @@
+nav {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+  .nav-container {
+    display: inline-block;
+    background-color: #A7A9AC;
+    border: #929497 6px solid;
+    border-radius: 30px;
+    padding: 6px;
+    .red {
+      background-color: #EB2227;
+      border: #BE202E solid 3px;
+    }
+    .blue {
+      background-color: #4272B8;
+      border: #3D5DAA solid 3px;
+    }
+    .green {
+      background-color: #53B95C;
+      border: #03A550 solid 3px;
+    }
+    .yellow {
+      background-color: #FEDB00;
+      border: #FAAF43 solid 3px;
+    }
+    .link {
+      display: inline-block;
+      text-decoration: none;
+      text-align: center;
+      span {
+        position: relative;
+        transform: translateX(-50%);
+        color: #FFFFFF;
+      }
+      .link-container {
+        position: relative;
+        width: 60px;
+        height: 60px;
+        margin: 3px;
+        border-radius: 16px;
+        img {
+          position: absolute;
+          left: 50%;
+          top: 50%;
+          transform: translate(-50%, -50%);
+          height: 100%;
+          max-width: 40px;
+          max-height: 40px;
+          padding: 4px;
+        }
+      }
+      &:hover {
+        img {
+          max-width: 45px;
+          max-height: 45px;
+        }
+      }
+      &:active {
+        .link-container {
+          border-width: 6px;
+          img {
+            max-width: 40px;
+            max-height: 40px;
+          }
+        }
+      }
+      &.active {
+        .link-container {
+          border-width: 6px;
+          img {
+            max-width: 40px;
+            max-height: 40px;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 400px) {
+  nav {
+    .nav-container {
+      .link {
+        .link-container {
+          width: 48px;
+          height: 48px;
+          img {
+            max-width: 35px;
+            max-height: 35px;
+          }
+          &:hover {
+            img {
+              max-width: 38px;
+              max-height: 38px;
+            }
+          }
+          &:active, .active {
+            border-width: 6px;
+            img {
+              max-width: 30px;
+              max-height: 30px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
