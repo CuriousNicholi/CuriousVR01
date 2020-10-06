@@ -2,8 +2,8 @@
 title: Facebook and the Quest 2 Data Mine VR's Youth
 metaDescription: Facebook Oculus Quest 2 login requirements for education open to the door to capturing student data
 date: 2020-09-21
-thumbnail: /images/blogthumbs/201006quest2data1b.png
-banner: /images/blogthumbs/201006quest2data1b.png
+thumbnail: /images/blogthumbs/200923quest2data1.png
+banner: /images/blogthumbs/200923quest2data1.png
 discussionId: Quest2Data1
 
 ---
