@@ -1,4 +1,4 @@
 ---
 title: Contact
-metaDescription: Welcome to CuriousVR Show. I'm CuriousVR and this is my show.
+metaDescription: Contact CuriousVR to join in on his virtual adventures in reality style.
 ---

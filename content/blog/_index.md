@@ -1,6 +1,6 @@
 ---
 title: Blog
-metaDescription: Welcome to CuriousVR Show. I'm CuriousVR and this is my show.
+metaDescription: Welcome to the Curious VR Blog. I'm CuriousVR and this is my Blog.
 ---
 
 # Blog

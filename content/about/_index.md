@@ -1,6 +1,6 @@
 ---
 title: About
-metaDescription: Welcome to CuriousVR Show. I'm CuriousVR and this is my show.
+metaDescription: CuriousVR is the most curious vr website this side of reality.
 ---
 
 # About
