@@ -139,3 +139,15 @@ strong {
     }
   }
 }
+
+.video-container {
+  .youtube-iframe{
+    display: block;
+    border: none;
+    width: 100%;
+    min-height: 200px;
+  }
+  p {
+    margin-bottom: 4rem;
+  }
+}
