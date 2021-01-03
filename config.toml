@@ -3,6 +3,11 @@ languageCode = "en-us"
 title = "CuriousVR Show"
 summaryLength = 30
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   talkyardServerUrl = "https://comments-for-curiousvr-tv.talkyard.net"
   talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"

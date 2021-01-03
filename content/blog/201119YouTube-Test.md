@@ -1,9 +1,11 @@
 ---
 title: Youtube embed test
 metaDescription: testing to see if i can embed youtube
+heroHeight: 60vw
+heroMaxHeight: 550px
 date: 2020-11-19
 thumbnail: 
-banner: 
+banner:
 discussionId: 201014KeepMoving
 
 ---

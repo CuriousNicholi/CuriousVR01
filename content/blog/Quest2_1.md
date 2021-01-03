@@ -1,11 +1,12 @@
 ---
 title: Facebook and the Quest 2 Data Mine VR's Youth
 metaDescription: Facebook Oculus Quest 2 login requirements for education open to the door to capturing student data
+heroHeight: 60vw
+heroMaxHeight: 550px
 date: 2020-09-21
 thumbnail: /images/blogthumbs/200923quest2data1.png
 banner: /images/blogthumbs/200923quest2data1.png
 discussionId: Quest2Data1
-
 ---
 
 After the official announcement at ~~Oculus~~ Facebook Connect last week, Quest 2 is the hot topic at every virtual watercooler this side of reality. We swoon over the new color and framerate, argue pixels and processors until we’re Facebook-blue in the face, and lament over controllers that are “OMG, like… so 2019.”

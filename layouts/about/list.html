@@ -30,7 +30,7 @@
 </nav>
 <p class="curious"><a href="/contact">Curious? Click Here!</a></p>
 <div class="text-container about-container">
-  {{ .Content }}
+  {{ .Content | safeHTML }}
 </div>
 
 {{ end }}

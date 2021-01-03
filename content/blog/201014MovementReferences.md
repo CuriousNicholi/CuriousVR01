@@ -1,11 +1,12 @@
 ---
 title: Keep Moving Forward So You Don't Get Stuck Like Cement
 metaDescription: Netflix Cobra Kai teaches Gen Z valuable lessons in staying strong during the pandemic
+heroHeight: 60vw
+heroMaxHeight: 550px
 date: 2020-10-14
 thumbnail: https://media.giphy.com/media/5k1Vj9UnutUoKew39X/giphy.gif
 banner: https://media.giphy.com/media/5k1Vj9UnutUoKew39X/giphy.gif
 discussionId: 201014KeepMoving
-
 ---
 
 Like many of you, Netflix’s [*Cobra Kai*](https://www.netflix.com/title/81002370) bit me hard on episode one. It’s literally the only television/film I’ve watched this year, and I watched all of it. It’s entertaining with plenty of nostalgia and captivating new characters. But what hits hardest is the core values taught by each competing sensei, and how accurately those lessons reach through the monitor and into every viewers’ own personal growth. Almost as if the show is in itself a sensei to Gen Z just like the original Karate Kid(s) were to Gen X. That’s meta done right. Today’s lesson/blog post combo move comes from Johnny Lawrence:  

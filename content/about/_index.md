@@ -1,6 +1,8 @@
 ---
 title: About
 metaDescription: CuriousVR is the most curious vr website this side of reality.
+heroHeight: 60vw
+heroMaxHeight: 400px
 ---
 
 # CuriousVR℠
