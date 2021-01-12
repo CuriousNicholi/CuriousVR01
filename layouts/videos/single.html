@@ -10,7 +10,7 @@
     </a>
     <a class="link active" href="/videos">
       <div class="link-container red">
-        <img src="/icons/icon_Youtube.svg" aria-hidden="true" target="_blank" rel="noopener">
+        <img src="/icons/icon_Youtube.svg" aria-hidden="true">
       </div>
       <span>Videos</span>
     </a>
@@ -22,26 +22,18 @@
     </a>
     <a class="link" href="https://twitter.com/CuriousVR_tv">
       <div class="link-container blue">
-        <img src="/icons/icon_Twitter.svg" aria-hidden="true" target="_blank" rel="noopener">
+        <img src="/icons/icon_Twitter.svg" aria-hidden="true">
       </div>
       <span>Social</span>
     </a>
   </div>
 </nav>
 <p class="curious"><a href="/contact">Curious? Click Here!</a></p>
-<div class="container">
-  <p class="content">{{ .Content }}</p>
-  <div class="row">
-    {{ range ((.Data.Pages).ByParam "date").Reverse }}
-    <div class="col-md-4 video-container">
-      <a href="{{ .Permalink }}">
-        <img src="{{ .Params.banner }}" aria-hidden="true">
-        <h2>{{ .Params.title }}</h2>
-        <p>{{ .Params.description }}</p>
-      </a>
-    </div>
-  {{ end }}
-  </div>
+
+<div class="blog-container">
+  <iframe src="{{ .Params.link }}" class="youtube-iframe"></iframe>
+  <h1>{{ .Params.title }}</h1>
+  <p>{{ .Content }}</p>
 </div>
 
 {{ end }}
