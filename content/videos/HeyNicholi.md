@@ -1,8 +1,8 @@
 ---
 title: 04 Hey, Nicholi (ft. creative captions)
 link: https://www.youtube.com/embed//dOgyJjrgato
-description: 
-banner: /images/eee.png
+description: A tiny planet glimpse into the future of stereo visual entertainment.
+banner: https://lh3.googleusercontent.com/riQ2hh9QJVhYC3VKJXFXi8P2T14JsKx5HrUUfbFpSqA3mhkG9YzONTBbeVDt4H9DPAZ8o9pIfDU0-KOYuiaJPaJO2ugpXZhis4q1z8ZO1zMRPJJ5AEHD4fov2obpwSuig_W3xebmVw=w2400
 ---
 A tiny planet glimpse into the future of stereo visual entertainment.
 Caught in a curious loop, our heroes once again blend the lines of virtual and reality.
