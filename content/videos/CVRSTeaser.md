@@ -2,7 +2,7 @@
 title: 06 CuriousVR℠ Show Teaser
 link: https://www.youtube.com/embed/22kL69iEgzY
 description: This just in from extended reality, CuriousVR℠ Show [in stereo] is alive!
-banner: /images/eee.png
+banner: https://lh3.googleusercontent.com/GLZG_oall0qZ5c_ThOcBWUGmbB4gdHZFhIZ_mCxk3WIW7LzWswCUI2eAolxAcX8AizqeUFw8SjmLtGKvkDJJJ52X_iJhha-MvGyJcahOc-FfKdtDSvk-B_rAZOdXSlAmbtGHtM-04A=w2400
 ---
 Creative VR gamer outplays pandemic with virtual reality. Has fun with curious Neos friends instead.
 

@@ -2,7 +2,7 @@
 title: 09 Neos Rewind 02
 link: https://www.youtube.com/embed/jbv9Mr4GX3s
 description: Completely Fake Casino, Fireball Bracelet, Neos Cubes, Festa Dancing Cat Band VR
-banner: /images/eee.png
+banner: https://lh3.googleusercontent.com/hrHVUVaBUx6YJrTO4_UQhNpcKsJR_7r-lYx2L4Dpzph1jEi-piv0OlMefd9kgzlCdIoUuxbuKjWKe1H2iGRNlWiMwoF-Fxo8gL9jf9dtFlYQ6oolIMr-B-gpP_Wcw7yzu7FScdltww=w2400
 ---
 On this week's episode of Neos Rewind...
 We take a preview sneak peak of NJBank's upcoming Casino that only accepts Completely Fake Currency (KFC). Venture into InnocentThief's year long project maze game. Head to the Neos Laboratory to try on the fireball bracelet. A quick glimpse of the most addicting game on the planet: Neos Cubes... a truly 3D block game that will occupy you for hours. And a live improptu Cat Band performance featuring Ott on melodica. All found within the NeosVR Metaverse.

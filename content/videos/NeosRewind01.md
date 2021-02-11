@@ -2,7 +2,7 @@
 title: 08 Neos Rewind 01
 link: https://www.youtube.com/embed/p500Pa0ajMY
 description: Watch the very 1st opera in the Metaverse, VR Wild West shootout, and flying Puppy Dogs
-banner: /images/eee.png
+banner: https://lh3.googleusercontent.com/pnMSKPXyJ4x-NMPvY9b6ZUp0k7AMfvBbvZxSwoB9ssTm7ClFgJiSyB5tkdTu2NOfokmylM7npfYE5t6ePV50GgjdXG3tk2aBaoEBYEEP5UecMdR6SNTXgJqEE9HzACCSHfVWRtgjow=w2400
 ---
 Wow! There is so much happening in Neos VR right now, it's hard to keep up. But fear not, CuriousVR has come to the rescue with Neos REWIND... a quick recap of everything you might have missed and more. Jump in your headset to watch in 3D or check it out on your desktop. Using stereographic technology, every frame has meticulously captured virtual reality in it's most authentic experience. Join CuriousVR, Medra, DeltaEcho, Joris, and Neivi as they build new culture and discover new friends with the most creative app in the Metaverse.
 
